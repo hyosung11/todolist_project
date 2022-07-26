@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/hyosung11/todolist_project/issues"
   },
-  "homepage": "https://github.com/hyosung11/todolist_project#readme"
+  "homepage": "https://github.com/hyosung11/todolist_project#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.9",
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9"
+  }
 }
